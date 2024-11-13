@@ -133,3 +133,4 @@ while start == "s" or start == "S" or start == "si" or start == "Si" or start ==
             buy((prices["PawPatrol Soundtrack"]+2000))
             
     start = input("¿Deseas hacer otra compra? s/n: ")
+print("FIN")
